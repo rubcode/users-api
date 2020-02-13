@@ -1,0 +1,34 @@
+#sidenav-overlay
+{
+	display: none;
+}
+.bg-green{
+	background-color: #4fd28b;
+}
+.qr
+{
+	margin-top: 20px;
+	height: 250px;
+	width: 250px;
+}
+.imgdescuento
+{
+	width: 100%;
+	height: 150px;
+	background-color: #9e9e9e;
+}
+.circle
+{
+	height: 50px;
+	width: 50px;
+	background-color: #9e9e9e;
+	float: left;
+	margin: 5px;
+}
+.imgperfil
+{
+	height: 150px;
+	width:150px;
+	margin-top: 20px;
+	/*border-radius: 70px;*/
+}
